@@ -1,0 +1,18 @@
+.center {
+    text-align: center;
+}
+body {
+    background-color: rgb(117, 115, 115);
+    cursor: pointer;
+    color: rgb(218, 214, 214);
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/906/415/604/texture-wood-monochrome-gray-wallpaper-preview.jpg")
+
+}
+img {
+    border-radius: 10px;
+    border-style: dotted;
+    height: 400px;
+}
+p {
+    font-family: cursive;
+}
